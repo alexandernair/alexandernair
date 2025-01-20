@@ -9,9 +9,9 @@ I'm a full stack developer who also has a keen intrest in hybrid cloud, cybersec
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on finding a full time position.
+👩‍💻 I'm currently @ Dell.
 
-🧠 I'm currently learning about hybrid cloud!
+🧠 I'm currently learning about Iphone development!
 
 👯‍♀️ I'm looking to collaborate on making video games.
 
